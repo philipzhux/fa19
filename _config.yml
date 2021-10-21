@@ -2,3 +2,5 @@ collections:
   - announcements
   - lectures
   - homework
+
+theme: jekyll-theme-cayman
